@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daemon</string>
+    <string name="btn_setting">设置</string>
+</resources>
